@@ -33,3 +33,8 @@ test : 테스트 코드 추가 및 수정
 
 ### 적용 범위?
 컴포넌트(클라이언트), 컨트롤러(서버) 단위?
+
+-----------------------------
+
+### 참고 문서
+[Conventional Commits](https://www.conventionalcommits.org/ko/v1.0.0/)
